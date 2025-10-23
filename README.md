@@ -15,7 +15,9 @@ L’application est développée avec **Streamlit**, ce qui permet une **interfa
 - 📂 Analyse de fichiers Excel : traitement des colonnes `reviewText`.  
 - 📊 Visualisation des résultats avec un **diagramme en barres** (positif, neutre, négatif).  
 - 💾 Téléchargement des données analysées au format CSV.  
-- 🧹 Nettoyage du texte via la librairie `cleantext`.  
+- 🧹 Nettoyage du texte via la librairie `cleantext`.
+
+<div style="width:100%;text-align: center; background-color:white;"> <img align=middle src="C:\Users\safae\Downloads\analyse.png" width="700px" height="300px">
 
 ---
 
