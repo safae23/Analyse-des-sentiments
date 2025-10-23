@@ -20,9 +20,9 @@ L’application est développée avec **Streamlit**, ce qui permet une **interfa
 ---
 
 ## Technologies utilisées
--**Python** : Langage principal 
--**TextBlob** : Analyse de sentiment 
--**Pandas** : Manipulation de données 
--**Streamlit** : Interface interactive 
--**cleantext** : Nettoyage du texte 
--**Matplotlib / Seaborn** : Visualisation des données 
+- **Python** : Langage principal 
+- **TextBlob** : Analyse de sentiment 
+- **Pandas** : Manipulation de données 
+- **Streamlit** : Interface interactive 
+- **cleantext** : Nettoyage du texte 
+- **Matplotlib / Seaborn** : Visualisation des données 
