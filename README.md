@@ -17,7 +17,7 @@ L’application est développée avec **Streamlit**, ce qui permet une **interfa
 - 💾 Téléchargement des données analysées au format CSV.  
 - 🧹 Nettoyage du texte via la librairie `cleantext`.
 
-<div style="width:100%;text-align: center; background-color:white;"> <img align=middle src="C:\Users\safae\Downloads\analyse.png" width="700px" height="300px">
+<div style="width:100%;text-align: center; background-color:white;"> <img align=middle src="analyse.png" width="700px" height="300px">
 
 ---
 
